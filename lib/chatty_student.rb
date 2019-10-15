@@ -3,6 +3,6 @@ class ChattyStudent < Student
   def  hello 
     super 
     @chatty_phrase =
-    puts 
+    puts "
   end 
 end 
